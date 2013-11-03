@@ -1,0 +1,31 @@
+{
+  "name": "pastelGreen",
+  "version": "0.0.1",
+  "authors": [
+    "kadajett <jeremy.ryan.stover@gmail.com>"
+  ],
+  "description": "A theme for the beautiful Ghost blogging template",
+  "main": "app/index.js",
+  "keywords": [
+    "ghost",
+    "theme",
+    "blog",
+    "theme",
+    "blog",
+    "blogging",
+    "pastel"
+  ],
+  "license": "MIT",
+  "homepage": "http://jeremyryanstover.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.1"
+  }
+}
